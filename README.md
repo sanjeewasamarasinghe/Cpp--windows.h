@@ -1,3 +1,3 @@
 # Cpp--WIN32
 
-Sample Window. libbery form
+Sample Window.h library form
